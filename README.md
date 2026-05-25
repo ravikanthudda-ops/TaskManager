@@ -175,18 +175,18 @@ TaskManager/
 **Concept:** You will NOT use any scaffolding or generated controllers. You will create an empty web API project and add every piece by hand. This way you understand why each line exists. `Program.cs` is the entry point — it has two phases: *register services* (`builder.Services.*`) and *configure the HTTP pipeline* (`app.Use*`). Controllers are not active by default in a minimal project — you opt in by adding two lines yourself.
 
 **Tasks:**
-- [ ] Run the scaffold commands (see CLI Quick Reference at the bottom)
-- [ ] Open `Program.cs` and read every line — answer these before moving on:
+- [x] Run the scaffold commands (see CLI Quick Reference at the bottom)
+- [x] Open `Program.cs` and read every line — answer these before moving on:
   - What is `builder.Services`?
   - What is the difference between the code before `var app = builder.Build()` and after it?
   - What does `app.Run()` do?
-- [ ] The project starts as a minimal API. Add controller support manually:
+- [x] The project starts as a minimal API. Add controller support manually:
   - Add `builder.Services.AddControllers();` before `builder.Build()`
   - Add `app.MapControllers();` before `app.Run()`
-- [ ] Create an empty `Controllers/` folder inside `TaskManager.API/` — do not put anything in it yet
-- [ ] Run `dotnet run --project TaskManager.API` — it should start with no errors
+- [x] Create an empty `Controllers/` folder inside `TaskManager.API/` — do not put anything in it yet
+- [x] Run `dotnet run --project TaskManager.API` — it should start with no errors
 - [ ] Open the Swagger URL in the browser — Swagger will show no endpoints yet (that is expected)
-- [ ] Answer aloud: "What is a controller?" and "What does `[ApiController]` do?" — look it up if unsure
+- [x] Answer aloud: "What is a controller?" and "What does `[ApiController]` do?" — look it up if unsure
 
 **Done When:**
 - `dotnet run` starts without errors
