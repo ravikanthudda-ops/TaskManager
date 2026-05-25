@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "r:\\Learning\\Career\\TaskManager\\TaskManager.API\\TaskManager.API.csproj": {}
+    "R:\\Learning\\Career\\TaskManager\\TaskManager.API\\TaskManager.API.csproj": {}
   },
   "projects": {
-    "r:\\Learning\\Career\\TaskManager\\TaskManager.API\\TaskManager.API.csproj": {
+    "R:\\Learning\\Career\\TaskManager\\TaskManager.API\\TaskManager.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "r:\\Learning\\Career\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
+        "projectUniqueName": "R:\\Learning\\Career\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
         "projectName": "TaskManager.API",
-        "projectPath": "r:\\Learning\\Career\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
+        "projectPath": "R:\\Learning\\Career\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
         "packagesPath": "C:\\Users\\RAVIKANTHUDDA\\.nuget\\packages\\",
-        "outputPath": "r:\\Learning\\Career\\TaskManager\\TaskManager.API\\obj\\",
+        "outputPath": "R:\\Learning\\Career\\TaskManager\\TaskManager.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
