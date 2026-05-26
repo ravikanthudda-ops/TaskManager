@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "A3y6kdqF/JI=",
+  "dgSpecHash": "9c9/4BZo4bg=",
   "success": true,
-  "projectFilePath": "R:\\Learning\\Career\\TaskManager\\TaskManager.API\\TaskManager.API.csproj",
+  "projectFilePath": "R:\\Learning\\Career\\taskmanager\\TaskManager.API\\TaskManager.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RAVIKANTHUDDA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
-    "C:\\Users\\RAVIKANTHUDDA\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\RAVIKANTHUDDA\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\RAVIKANTHUDDA\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\RAVIKANTHUDDA\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.7\\swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "C:\\Users\\RAVIKANTHUDDA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "C:\\Users\\RAVIKANTHUDDA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.7\\swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "C:\\Users\\RAVIKANTHUDDA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
   ],
   "logs": []
 }

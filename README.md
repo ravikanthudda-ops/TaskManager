@@ -185,7 +185,7 @@ TaskManager/
   - Add `app.MapControllers();` before `app.Run()`
 - [x] Create an empty `Controllers/` folder inside `TaskManager.API/` — do not put anything in it yet
 - [x] Run `dotnet run --project TaskManager.API` — it should start with no errors
-- [ ] Open the Swagger URL in the browser — Swagger will show no endpoints yet (that is expected)
+- [x] Open the Swagger URL in the browser — Swagger will show no endpoints yet (that is expected)
 - [x] Answer aloud: "What is a controller?" and "What does `[ApiController]` do?" — look it up if unsure
 
 **Done When:**
